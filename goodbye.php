@@ -1,4 +1,4 @@
 <?php
 $username = 'User';
-echo "Hello, $username";
+echo "Goodbye, $username";
 ?>
