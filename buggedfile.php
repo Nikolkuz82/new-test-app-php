@@ -1,3 +1,3 @@
 <?php
-echo "There is a bug in this row";
+echo "There is no bug in this row";
 ?>
